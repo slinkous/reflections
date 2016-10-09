@@ -1,3 +1,11 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area allows you to focus on a change as a small cohesive group of adjustments that are implemented together. Keeps a commit from being a single line. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can work on pieces in different files and subchanges until what is staged looks like a single cohesive change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Experimental features, tests, diverging ideas on a team
