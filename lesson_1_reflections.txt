@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It reduced the number of lines I had to look at. It gave me an orientation in time to diagnose.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does
+
+Pros
+logical save point
+variable intervals for distinct projects
+
+Cons
+Disruption leads to lost work
+non standard between users
+
+How might using version control make you more confident to make changes that could break something?
+
+You have an un-do button. You can even (I think) take a project multiple directions 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Well, I almost have my workspace set up. I am still unsure how to launch the editor as a command, but hopefully that's coming up. I want to use Git to work on my game. Although I am increasingly doubtful about the premise.
+
