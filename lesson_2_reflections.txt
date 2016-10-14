@@ -9,3 +9,7 @@ You can work on pieces in different files and subchanges until what is staged lo
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Experimental features, tests, diverging ideas on a team
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+I was unable to merge, because I don't know how to determine what needs fixing for them to be reconcilable.
