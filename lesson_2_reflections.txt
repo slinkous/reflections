@@ -2,14 +2,18 @@ How is the staging area different from the working directory and the repository?
 
 The staging area allows you to focus on a change as a small cohesive group of adjustments that are implemented together. Keeps a commit from being a single line. 
 
-How can you use the staging area to make sure you have one commit per logical change?
+ * How can you use the staging area to make sure you have one commit per logical change?
 
 You can work on pieces in different files and subchanges until what is staged looks like a single cohesive change
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ * What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Experimental features, tests, diverging ideas on a team
 
-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ * What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 I was unable to merge, because I don't know how to determine what needs fixing for them to be reconcilable.
+
+ * What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ It cuts out a lot of obvious parts of the process which would cost time.\
